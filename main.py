@@ -1,1 +1,8 @@
-
+class Recoding_signs(QMainWindow):
+    def recoding(self, img_name):
+       """
+       ......
+       ......
+       ......
+       """
+       return self.for_circles_img
